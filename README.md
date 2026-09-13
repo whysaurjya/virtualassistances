@@ -7,7 +7,7 @@
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
 ## Description
-Welcome to the Alpine Bar website repository, designed and developed by DIZIVER. Alpine Bar is a chic, modern bar known for its cozy ambiance and exquisite cocktails. This repository contains the source code and assets for the official Alpine Bar website, providing a seamless and engaging online experience for visitors.
+Welcome to the Alpine Bar website repository, designed and developed by DIZIVER. Alpine Bar is a chic, modern bar known for its cozy ambiance and exquisite cocktails. This repository contains the source code and assets for the official Alpine Bar website, providing a seamless and engagin
 
 ## Features
 ● Responsive Design: Optimized for all devices, from desktops to mobile phones.
