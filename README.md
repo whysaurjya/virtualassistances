@@ -1,4 +1,4 @@
-# Alpine Bar Websites Designed by [DIZIVER](https://www.diziver.com)
+# Virtual Assitence Websites Design
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
